@@ -126,9 +126,3 @@ if tr==3:
     print(patience("Btw Good Night",1000))
 else:
     print("Ok bye:)")
-
-
-    
-
-
-
